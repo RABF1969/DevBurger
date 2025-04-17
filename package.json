@@ -1,0 +1,21 @@
+{
+  "name": "devburger",
+  "version": "1.0.0",
+  "description": "DevBurger",
+  "main": "src/server.js",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "sucrase": "^3.35.0"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": {
+    "name": "Antônio Ferreira",
+    "url": "https://github.com/RABF1969"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
