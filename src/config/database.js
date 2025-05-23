@@ -1,4 +1,5 @@
-module.exports = {
+export default {
+  // Configuração do banco de dados
   dialect: 'postgres',
   host: 'localhost',
   port: 5432,
